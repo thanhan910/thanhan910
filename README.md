@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ### Sidenotes
 
@@ -30,3 +30,4 @@ For example:
 - My middle name is "Thanh"
 - My given name is "An". You can call me "An" or "Thanh An".
  
+-->
